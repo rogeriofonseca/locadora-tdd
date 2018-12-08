@@ -20,7 +20,6 @@ import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
-import org.locadora.tdd.builders.LocacaoBuilder;
 import org.locadora.tdd.daos.LocacaoDAO;
 import org.locadora.tdd.entidades.Filme;
 import org.locadora.tdd.entidades.Locacao;
